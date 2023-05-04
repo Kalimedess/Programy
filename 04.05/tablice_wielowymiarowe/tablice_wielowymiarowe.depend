@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683190905 source:c:\users\local\documents\169246\04.05\tablice_wielowymiarowe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
